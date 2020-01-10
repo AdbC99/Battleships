@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleships", "Battleships\Battleships.csproj", "{733CF46C-BCAC-4256-9088-9D86D23AA5B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{6826EC90-4128-4D39-AAD4-A1A28F98416D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733CF46C-BCAC-4256-9088-9D86D23AA5B0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{733CF46C-BCAC-4256-9088-9D86D23AA5B0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{733CF46C-BCAC-4256-9088-9D86D23AA5B0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{733CF46C-BCAC-4256-9088-9D86D23AA5B0}.Release|anycpu.Build.0 = Release|anycpu
+		{6826EC90-4128-4D39-AAD4-A1A28F98416D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6826EC90-4128-4D39-AAD4-A1A28F98416D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6826EC90-4128-4D39-AAD4-A1A28F98416D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6826EC90-4128-4D39-AAD4-A1A28F98416D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
