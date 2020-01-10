@@ -1,2 +1,2 @@
 # Battleships
-A player controller with state tracking for a battleships game
+A player controller with state tracking for a battleships game. To see the controller in action, either run the battleships commandline executable by building the visual studio executable, or run the separate UnitTests project for more detailed tests.
